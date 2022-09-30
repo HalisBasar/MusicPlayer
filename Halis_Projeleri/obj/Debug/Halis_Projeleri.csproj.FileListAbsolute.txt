@@ -1,0 +1,16 @@
+C:\Users\Halis Tiftik\Desktop\c#Projeleri\Halis_Projeleri\Halis_Projeleri\bin\Debug\Halis_Projeleri.exe.config
+C:\Users\Halis Tiftik\Desktop\c#Projeleri\Halis_Projeleri\Halis_Projeleri\bin\Debug\Halis_Projeleri.exe
+C:\Users\Halis Tiftik\Desktop\c#Projeleri\Halis_Projeleri\Halis_Projeleri\bin\Debug\Halis_Projeleri.pdb
+C:\Users\Halis Tiftik\Desktop\c#Projeleri\Halis_Projeleri\Halis_Projeleri\bin\Debug\Interop.WMPLib.dll
+C:\Users\Halis Tiftik\Desktop\c#Projeleri\Halis_Projeleri\Halis_Projeleri\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Halis Tiftik\Desktop\c#Projeleri\Halis_Projeleri\Halis_Projeleri\obj\Debug\Halis_Projeleri.csproj.AssemblyReference.cache
+C:\Users\Halis Tiftik\Desktop\c#Projeleri\Halis_Projeleri\Halis_Projeleri\obj\Debug\Halis_Projeleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halis Tiftik\Desktop\c#Projeleri\Halis_Projeleri\Halis_Projeleri\obj\Debug\Interop.WMPLib.dll
+C:\Users\Halis Tiftik\Desktop\c#Projeleri\Halis_Projeleri\Halis_Projeleri\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Halis Tiftik\Desktop\c#Projeleri\Halis_Projeleri\Halis_Projeleri\obj\Debug\Halis_Projeleri.csproj.ResolveComReference.cache
+C:\Users\Halis Tiftik\Desktop\c#Projeleri\Halis_Projeleri\Halis_Projeleri\obj\Debug\Halis_Projeleri.Form1.resources
+C:\Users\Halis Tiftik\Desktop\c#Projeleri\Halis_Projeleri\Halis_Projeleri\obj\Debug\Halis_Projeleri.Properties.Resources.resources
+C:\Users\Halis Tiftik\Desktop\c#Projeleri\Halis_Projeleri\Halis_Projeleri\obj\Debug\Halis_Projeleri.csproj.GenerateResource.cache
+C:\Users\Halis Tiftik\Desktop\c#Projeleri\Halis_Projeleri\Halis_Projeleri\obj\Debug\Halis_Projeleri.csproj.CoreCompileInputs.cache
+C:\Users\Halis Tiftik\Desktop\c#Projeleri\Halis_Projeleri\Halis_Projeleri\obj\Debug\Halis_Projeleri.exe
+C:\Users\Halis Tiftik\Desktop\c#Projeleri\Halis_Projeleri\Halis_Projeleri\obj\Debug\Halis_Projeleri.pdb
